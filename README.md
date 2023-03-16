@@ -7,6 +7,7 @@ Projects
 Skills
 Experience
 Contact Me
+
 About Me
 I'm a highly motivated individual with a passion for technology and a background in international business. With experience in project management and client-facing roles, I have developed excellent communication and organizational skills.
 
@@ -20,10 +21,10 @@ Projects
 Here, you can list and describe your projects in more detail. Include links to the live demos and source code on GitHub.
 
 Skills
-List your technical skills and areas of expertise. You can also include any relevant certifications or courses you've completed.
-
-Experience
-List your relevant work experience, internships, or volunteer work. Include the name of the company, your position, and a brief description of your responsibilities.
+Programming languages: C#, Java, JavaScript, TypeScript, SQL
+Web development: HTML, CSS, PHP, ASP.NET, React, Angular
+Database management: MySQL
 
 Contact Me
-Include your contact information, such as email or LinkedIn profile, so potential employers or collaborators can get in touch with you.
+Email: ryanglease1@pm.me
+Linkedin: https://www.linkedin.com/in/ryanglease
